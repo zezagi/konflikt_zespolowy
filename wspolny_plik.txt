@@ -1,1 +1,3 @@
-zmiana studentaB
+Linijka od student A (szefa)
+zmiana studenta B
+
